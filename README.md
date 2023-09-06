@@ -23,9 +23,6 @@
 <li>Peter the Great St. Petersburg Polytechnic University,  Institute for Cyber Security and Information Protection, Information security of automated systems (2019 - 2024).</li>
 </ul>
 </article>
-  </div>
-</div>
-
 
 <!---
 anna-kuleeva/anna-kuleeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
