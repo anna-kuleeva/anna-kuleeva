@@ -14,7 +14,7 @@
 <li>C/C++</li>
 <li>Cisco</li>
 <li>GIT</li>
-<li>Sclearn, Tensorflow, Keras, Pytorch</li>
+<li>Sklearn, Tensorflow, Keras, Pytorch</li>
 <li>Django</li>
 <li>SQL</li>
 </ul>
